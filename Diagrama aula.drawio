@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.16" pages="3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16" pages="4">
   <diagram name="Página-1" id="9zRj--kGXZXB-4lgX4le">
     <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -367,6 +367,203 @@
         </mxCell>
         <mxCell id="haKYKc7oZL2xUwzgVwkH-24" value="Promover e divulgar o hotel&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="245" y="460" width="135" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="aUK5pajnMNX3L66oRN66" name="Página-4">
+    <mxGraphModel dx="2261" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="d5rS03MZ5HaS0xv9_YlD-1" value="Usuário" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="20" y="150" width="80" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="d5rS03MZ5HaS0xv9_YlD-2" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="200" as="sourcePoint" />
+            <mxPoint x="160" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d5rS03MZ5HaS0xv9_YlD-3" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="230" as="sourcePoint" />
+            <mxPoint x="180" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d5rS03MZ5HaS0xv9_YlD-4" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="260" as="sourcePoint" />
+            <mxPoint x="160" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d5rS03MZ5HaS0xv9_YlD-5" value="adicionar tarefas&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="190" y="190" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="d5rS03MZ5HaS0xv9_YlD-6" value="Criar login" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="160" y="80" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="d5rS03MZ5HaS0xv9_YlD-7" value="Categorizar tarefas por trabalho, pessoal, urgente, etc." style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="160" y="300" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="d5rS03MZ5HaS0xv9_YlD-9" value="Editar tarefas." style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="390" y="190" width="130" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="d5rS03MZ5HaS0xv9_YlD-11" value="Excluir tarefas&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="610" y="185" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="d5rS03MZ5HaS0xv9_YlD-12" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="240" as="sourcePoint" />
+            <mxPoint x="370" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d5rS03MZ5HaS0xv9_YlD-13" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="240" as="sourcePoint" />
+            <mxPoint x="590" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d5rS03MZ5HaS0xv9_YlD-14" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="360" as="sourcePoint" />
+            <mxPoint x="380" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d5rS03MZ5HaS0xv9_YlD-15" value="Adicionar data final da atividade&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="615" y="310" width="130" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="d5rS03MZ5HaS0xv9_YlD-16" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="360" as="sourcePoint" />
+            <mxPoint x="600" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d5rS03MZ5HaS0xv9_YlD-17" value="Definir prioridade&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="390" y="320" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="d5rS03MZ5HaS0xv9_YlD-18" value="Sistema&amp;nbsp;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="140" width="90" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="d5rS03MZ5HaS0xv9_YlD-19" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="780" y="1140" as="sourcePoint" />
+            <mxPoint x="880" y="1140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d5rS03MZ5HaS0xv9_YlD-21" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1150" y="180" as="sourcePoint" />
+            <mxPoint x="1070" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d5rS03MZ5HaS0xv9_YlD-22" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1160" y="315" as="sourcePoint" />
+            <mxPoint x="1090" y="355" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d5rS03MZ5HaS0xv9_YlD-23" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1170" y="250" as="sourcePoint" />
+            <mxPoint x="1080" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d5rS03MZ5HaS0xv9_YlD-24" value="Gerar relatórios das atividades" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="920" y="50" width="130" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="d5rS03MZ5HaS0xv9_YlD-25" value="Criar calendário das atividades de acordo com a data final&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="950" y="315" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="d5rS03MZ5HaS0xv9_YlD-26" value="Enviar lembretes&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="940" y="190" width="130" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="d5rS03MZ5HaS0xv9_YlD-27" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="760" y="360" as="sourcePoint" />
+            <mxPoint x="930" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d5rS03MZ5HaS0xv9_YlD-28" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="760" y="240" as="sourcePoint" />
+            <mxPoint x="920" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d5rS03MZ5HaS0xv9_YlD-29" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="910" y="99.5" as="sourcePoint" />
+            <mxPoint x="850" y="99.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d5rS03MZ5HaS0xv9_YlD-30" value="gerar relatórios do desenvolvimento do usuário" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="697" y="50" width="130" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="d5rS03MZ5HaS0xv9_YlD-37" value="Usuário&amp;nbsp;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="40" y="520" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="d5rS03MZ5HaS0xv9_YlD-38" value="Adicionar e - mail&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="d5rS03MZ5HaS0xv9_YlD-37">
+          <mxGeometry y="100" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d5rS03MZ5HaS0xv9_YlD-39" value="Criar senha&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="d5rS03MZ5HaS0xv9_YlD-37">
+          <mxGeometry y="130" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d5rS03MZ5HaS0xv9_YlD-41" value="Telefone&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="d5rS03MZ5HaS0xv9_YlD-37">
+          <mxGeometry y="160" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d5rS03MZ5HaS0xv9_YlD-43" value="Cpf&amp;nbsp;&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="d5rS03MZ5HaS0xv9_YlD-37">
+          <mxGeometry y="40" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d5rS03MZ5HaS0xv9_YlD-44" value="Nome&amp;nbsp; &amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="d5rS03MZ5HaS0xv9_YlD-37">
+          <mxGeometry y="70" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d5rS03MZ5HaS0xv9_YlD-45" value="Criar conta&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="40" y="720" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="d5rS03MZ5HaS0xv9_YlD-48" value="Tarefas" style="swimlane;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="440" y="520" width="210" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="d5rS03MZ5HaS0xv9_YlD-49" value="Adicionar tarefas&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="d5rS03MZ5HaS0xv9_YlD-48">
+          <mxGeometry y="40" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d5rS03MZ5HaS0xv9_YlD-50" value="Editar tarefas&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="d5rS03MZ5HaS0xv9_YlD-48">
+          <mxGeometry y="70" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d5rS03MZ5HaS0xv9_YlD-51" value="Excluir tarefas&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="d5rS03MZ5HaS0xv9_YlD-48">
+          <mxGeometry y="100" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d5rS03MZ5HaS0xv9_YlD-52" value="Definir data final da atividade&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="d5rS03MZ5HaS0xv9_YlD-48">
+          <mxGeometry y="160" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d5rS03MZ5HaS0xv9_YlD-53" value="Definir prioridade&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="d5rS03MZ5HaS0xv9_YlD-48">
+          <mxGeometry y="130" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d5rS03MZ5HaS0xv9_YlD-54" value="Cadastrar tarefas&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="441.25" y="720" width="208.75" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="d5rS03MZ5HaS0xv9_YlD-55" value="Sistema&amp;nbsp;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="870" y="520" width="210" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="d5rS03MZ5HaS0xv9_YlD-57" value="Enviar lembretes&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="d5rS03MZ5HaS0xv9_YlD-55">
+          <mxGeometry y="40" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d5rS03MZ5HaS0xv9_YlD-58" value="Gerar relatórios do&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;desenvolvimento&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;do usuário&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="d5rS03MZ5HaS0xv9_YlD-55">
+          <mxGeometry x="-5" y="85" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="d5rS03MZ5HaS0xv9_YlD-59" value="Gerar calendário das atividades&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="d5rS03MZ5HaS0xv9_YlD-55">
+          <mxGeometry y="130" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d5rS03MZ5HaS0xv9_YlD-60" value="Marcar&amp;nbsp; &amp;nbsp;atividades&amp;nbsp; &amp;nbsp;como&amp;nbsp;&amp;nbsp;&lt;div&gt;&amp;nbsp;concluídas&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;ou não concluída&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="d5rS03MZ5HaS0xv9_YlD-55">
+          <mxGeometry y="160" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="d5rS03MZ5HaS0xv9_YlD-56" value="Funções do sistema&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="870" y="730" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="d5rS03MZ5HaS0xv9_YlD-61" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-30" y="1120" as="sourcePoint" />
+            <mxPoint x="50" y="1120" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
