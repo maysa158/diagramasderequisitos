@@ -1471,7 +1471,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="c0GqL8A6MAaWH_7Mz8vr-1" value="DIAGRAMA DE SEQUENCIA : PROJETO TDH" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="90" width="280" height="26" as="geometry" />
+          <mxGeometry x="542" y="260" width="280" height="26" as="geometry" />
         </mxCell>
         <mxCell id="c0GqL8A6MAaWH_7Mz8vr-2" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
